@@ -1,0 +1,9 @@
+KI-bruk – INF201 Deliverable 1
+
+Vi har brukt ChatGPT som et hjelpemiddel under arbeidet med innleveringen, hovedsakelig til forklaringer, feilsøking og veiledning.
+
+Vi har fått hjelp til å forstå Frost API og JSON-strukturen, behandle værdata med Pandas, beregne statistikk og glidende gjennomsnitt, identifisere hetebølger og opprette YAML-filer. Vi har også brukt KI til kodeforslag, rettelser og forklaringer på hvorfor ulike løsninger fungerer.
+
+I tillegg har vi fått hjelp med type hints, docstrings, kommentarer og dokumentasjon av koden. Mot slutten av arbeidet brukte vi ChatGPT til veiledning i Git og GitHub, blant annet branches, Pull Requests og merging, samt sammenslåing av notebookene, håndtering av API-nøkkel og eksport til PDF.
+
+Vi har jobbet med og testet løsningene i Jupyter Notebook og kontrollert resultatene underveis. KI har dermed fungert som en støtte i læringsprosessen og i det tekniske arbeidet med innleveringen.
